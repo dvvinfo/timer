@@ -1,4 +1,4 @@
-**Convenient and simple countdown timer on Java script.
+**Convenient and simple countdown timer on Java script.**
 
 For the timer to work in the html file, the genitive block must be assigned id="timer".
 
@@ -31,7 +31,7 @@ days.textContent = t.days;
 
 P.s. If the timer does not work you need to set the countdown date in the file main.js here let deadline = '2020-01-01 GMT+0300'.
 
-**Удобный и простой таймер обратного отсчета  на джава скрипте.
+**Удобный и простой таймер обратного отсчета  на джава скрипте.**
 
 Для работы таймера нужно в html файле родительному блоку присвоить id="timer".
 
